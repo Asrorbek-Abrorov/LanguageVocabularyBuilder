@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FFZ1G0wWFiICv/Baov4nBpmROLDuXU13OyP06ue1HtZDPh9U/lvzoIVAZTi/NYUdCNi3Y1mtsL2T4/Vlgd6+kA==",
+  "success": true,
+  "projectFilePath": "/home/as_abrorov/RiderProjects/LanguageVocabularyBuilder/LanguageVocabularyBuilder/LanguageVocabularyBuilder.csproj",
+  "expectedPackageFiles": [
+    "/home/as_abrorov/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/as_abrorov/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/home/as_abrorov/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
